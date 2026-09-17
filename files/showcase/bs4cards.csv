@@ -1,6 +1,5 @@
 title,src,url,description,tags,Show all,Distill,Blogdown,Publication,Slides,Course
 BocasBiome,files/showcase/images/bocasbiome.png,https://bocasbiome.github.io/,Minimalist publication site written in R Markdown and made with the Distill website template.,Distill; Publication,1,1,0,1,0,0
-
 Cacao fermentation,files/showcase/images/cacao_fermentation.png,https://jarrodscott.github.io/cacao-fermentation/,Slide show about Cacao Fermentation. Written in R Markdown and created with reveal.js.,Slides,1,0,0,0,1,0
 Istmobiome,files/showcase/images/istmobiome.png,https://istmobiome.rbind.io/,Istmobiome Project site written in R Markdown and created with blogdown and Hugo. ,Blogdown; Publication,1,0,1,1,0,0
 Hypocolypse,files/showcase/images/hypocolypse.png,https://hypocolypse.github.io/,Hypocolypse project publication site written in R Markdown and made with the Distill website template.,Distill; Publication,1,1,0,1,0,0

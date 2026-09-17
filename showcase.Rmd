@@ -1,7 +1,7 @@
 ---
 title: "Showcase"
 description: |
-  A showcase of R Markdown Projects. If you have a project you would like to share, let me know and I will post it here!
+  A showcase of Web Projects. If you have a project you would like to share, let me know and I will post it here!
 output:
   distill::distill_article:
 #    theme:

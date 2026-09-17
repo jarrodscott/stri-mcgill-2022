@@ -8,7 +8,7 @@ output:
 #      version: 4
     toc: false
     css: [assets/css/b4cards.css, assets/css/cards.css]
-base_url: https://stri-mcgill-neo.github.io/2022/
+base_url: https://jarrodscott.github.io/stri-mcgill-2022/
 preview: files/panama_logo.png
 params:
   update_all: FALSE

@@ -7,4 +7,5 @@ ProjectDIGEST,files/showcase/images/projectdigest.png,https://projectdigest.gith
 Rethinking Diversity,files/showcase/images/rethinking_diversity.png,https://istmobiome.github.io/rethink-d/rethink-d.html,Slide show about microbial diversity written in R Markdown and created with the xaringan package.,Slides,1,0,0,0,1,0
 How the Isthmus of Panama changed the world,files/showcase/images/how_the_isthmus_of_panama_changed_the_world.png,https://istmobiome.github.io/the-isthmus/the-isthmus.html,Slide show about the consequences of the Isthmus of Panama closing. Written in R Markdown and created with the xaringan package.,Slides,1,0,0,0,1,0
 STRI-McGill-NEO-2020,files/showcase/images/stri-mcgill-neo-2020.png,https://istmobiome.github.io/neo-bess/web-guide.html,STRI-McGill-NEO course site (2020) written in R Markdown and made with the flexdashboard framework.,Course,1,0,0,0,0,1
-STRI-McGill-NEO-2022,files/showcase/images/stri-mcgill-neo-2022.png,https://stri-mcgill-neo.github.io/2022/,STRI-McGill-NEO course site (2022) written in R Markdown and made with Distill blog template.,Distill; Course,1,1,0,0,0,1
+STRI-McGill-NEO-2022,files/showcase/images/stri-mcgill-neo-2022.png,https://jarrodscott.github.io/stri-mcgill-2022/,STRI-McGill-NEO course site (2022) written in R Markdown and made with Distill blog template.,Distill; Course,1,1,0,0,0,1
+

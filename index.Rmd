@@ -8,7 +8,7 @@ links:
     url: "tips-n-tricks.html"
   - label: Showcase
     url: "showcase.html"
-base_url: https://stri-mcgill-neo.github.io/
+base_url: https://jarrodscott.github.io/stri-mcgill-2022/
 preview: files/panama_logo.png
 site: distill::distill_website
 output:

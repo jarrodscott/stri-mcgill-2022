@@ -17,7 +17,8 @@ output:
     toc_depth: 2
     #css: ../../assets/styles.css
 bibliography: ../../assets/cite.bib  
-repository_url: "https://github.com/stri-mcgill-neo/2022/"
+repository_url: "https://github.com/jarrodscott/stri-mcgill-2022/"
+
 #collections:
 #  posts:
 #    disqus: reproducible-finance-with-r
@@ -92,7 +93,7 @@ And here is what it looks like on our pretend page after the code is rendered. N
 
 CSS, or [**C**ascading **S**tyle **S**heets](https://developer.mozilla.org/en-US/docs/Web/CSS), is a style sheet language ^[A style sheet language is a computer language that expresses the presentation of structured documents.] used to **control presentation, formatting, and layout** of a document written in a markup language, like HTML. . Now let's say we wanted to *style* the header and button elements created above. OK, how about we modify the header to be center aligned, uppercase, and blue. While we're at it, we can also change the look of the button. How about we make the button blue and rounded, set the font larger and white, and increase the left margin and padding.
 
-To accomplish this, we add the following code to our stylesheet ^[There are three ways you implement CSS into your HTML: internal, external, and inline styles. Internal or embedded CSS requires you to add \<style\> tag in the \<head\> section of your HTML document. With external CSS, you'll link your web pages to an external `.css` file, which can be created by any text editor in your device. Inline CSS is used to style a specific HTML element. For this CSS style, you'll only need to add the style attribute to each HTML tag, without using selectors. I mainly use an external CSS for styling. For example, here is the [CSS file for our site](https://github.com/stri-mcgill-neo/2022/blob/main/assets/css/styles.css)]:
+To accomplish this, we add the following code to our stylesheet ^[There are three ways you implement CSS into your HTML: internal, external, and inline styles. Internal or embedded CSS requires you to add \<style\> tag in the \<head\> section of your HTML document. With external CSS, you'll link your web pages to an external `.css` file, which can be created by any text editor in your device. Inline CSS is used to style a specific HTML element. For this CSS style, you'll only need to add the style attribute to each HTML tag, without using selectors. I mainly use an external CSS for styling. For example, here is the [CSS file for our site](https://github.com/jarrodscott/stri-mcgill-2022/blob/main/assets/css/styles.css)]:
 
 
 ```{css}
@@ -273,7 +274,7 @@ If for example, you want to add a table of contents to every page on your site, 
 
 > The structure and formating of the `_site.yml` is important. Indentation, new lines, and so on need to be coded properly. A malformed `_site.yml` file can break your site :)
 
-Click below if you would like to see the current version of the `_site.yml` file for our course web site. Compare this to the default `_site.yml` file above. You can also access the file [here](https://github.com/stri-mcgill-neo/2022/blob/main/_site.yml).
+Click below if you would like to see the current version of the `_site.yml` file for our course web site. Compare this to the default `_site.yml` file above. You can also access the file [here](https://github.com/jarrodscott/stri-mcgill-2022/blob/main/_site.yml).
 
 ```{yml code_folding=TRUE}
 name: "web"
@@ -281,7 +282,7 @@ title: ".Rmd Fieldguide"
 #description: |
 #  R Markdown Tutorials
 output_dir: "public_build"
-base_url: https://stri-mcgill-neo.github.io/2022/
+base_url: https://jarrodscott.github.io/stri-mcgill-2022/
 favicon: files/favicon_io/favicon.ico
 collections:
   posts:
@@ -302,7 +303,7 @@ navbar:
         - text: "Distill homepage"
           href: https://rstudio.github.io/distill/
     - icon: fa-github fa-lg
-      href: https://github.com/stri-mcgill-neo/2022
+      href: https://github.com/jarrodscott/stri-mcgill-2022/
     - icon: fa fa-rss
       href: sitemap.xml
 output:
@@ -315,7 +316,7 @@ output:
     toc: true
     toc_depth: 2
     toc_float: true
-compare_updates_url: https://github.com/stri-mcgill-neo/2022/compare/pubv1...master
+compare_updates_url: https://github.com/jarrodscott/stri-mcgill-2022/compare/pubv1...master
 rss:
   full_content: TRUE
 ```

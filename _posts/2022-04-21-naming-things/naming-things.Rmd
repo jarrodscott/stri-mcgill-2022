@@ -17,7 +17,8 @@ output:
     toc_depth: 2
     #css: ../../assets/styles.css
 bibliography: ../../assets/cite.bib  
-repository_url: "https://github.com/stri-mcgill-neo/2022/"
+repository_url: "https://github.com/jarrodscott/stri-mcgill-2022/"
+
 #collections:
 #  posts:
 #    disqus: reproducible-finance-with-r

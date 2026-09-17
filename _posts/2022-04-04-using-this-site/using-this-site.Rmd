@@ -58,7 +58,7 @@ First, the site is written in R Markdown and constructed using the [Distill blog
 
 > Bookmark the [Distill site](https://rstudio.github.io/distill/). You will use it a lot. The site is also linked in the dropdown menu on the navigation bar under Resources.
 
-Lessons will be posted in order on the [homepage](https://str-mcgoll-neo.github.io/2022/). Please work through these lessons before the course starts. Most lessons will be relatively short and include reading times at the top of each lesson so you know what you're getting into. I recognize that there is a range of coding expertise and experience in our group. These lessons are written for the beginner, so for some of you this material may be rudimentary. But please do work through the lessons---you may learn something new or you will almost certainly find mistakes I have made.  
+Lessons will be posted in order on the [homepage](https:/jarrodscott.github.io/stri-mcgill-2022/). Please work through these lessons before the course starts. Most lessons will be relatively short and include reading times at the top of each lesson so you know what you're getting into. I recognize that there is a range of coding expertise and experience in our group. These lessons are written for the beginner, so for some of you this material may be rudimentary. But please do work through the lessons---you may learn something new or you will almost certainly find mistakes I have made.  
 
 ## Elements
 

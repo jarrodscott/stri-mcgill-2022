@@ -3,7 +3,7 @@ title: ".Rmd Fieldguide"
 #title: ""
 #description: |
 #  R Markdown Tutorials
-output_dir: "public_build"
+output_dir: "."
 base_url: "https://jarrodscott.github.io/stri-mcgill-2022/"
 favicon: files/favicon_io/favicon.ico
 collections:
@@ -13,7 +13,7 @@ collections:
     authors_metadata: false
     feed_items_max: 20 # default
 #    disqus:
-#      shortname: stri-mcgill-neo
+#      shortname: stri-mcgill
 #      hidden: false
 #    share: [twitter, linkedin]
 #    subscribe: _subscribe.html
@@ -54,7 +54,7 @@ output:
     toc: true
     toc_depth: 2
     toc_float: true
-compare_updates_url:https://github.com/jarrodscott/stri-mcgill-2022/compare/pubv1...main
+compare_updates_url: https://github.com/jarrodscott/stri-mcgill-2022/compare/pubv1...main
 rss:
   full_content: TRUE
 #  categories:

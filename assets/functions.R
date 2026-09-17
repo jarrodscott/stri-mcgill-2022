@@ -20,8 +20,8 @@ source_code <- function() {
     tmp_rmd <- list.files(tmp_ldir, pattern = ".Rmd")
     tmp_finf <-paste(tmp_ldir, tmp_rmd, sep = "/")
     tmp_ghub <- stringr::str_replace(tmp_finf, 
-                                 "^.*STRI-MCGILL-NEO/2022", 
-                                 "https://github.com/stri-mcgill-neo/2022/blob/main")
+                                 "^.*STRI-MCGILL-NEO", 
+                                 "https://github.com/jarrodscott/stri-mcgill-2022/blob/main")
     return(tmp_ghub)                                 
 }
 

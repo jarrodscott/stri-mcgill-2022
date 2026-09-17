@@ -1,0 +1,63 @@
+name: "web"
+title: ".Rmd Fieldguide"
+#title: ""
+#description: |
+#  R Markdown Tutorials
+output_dir: "public_build"
+base_url: "https://jarrodscott.github.io/stri-mcgill-2022/"
+favicon: files/favicon_io/favicon.ico
+collections:
+  posts:
+    categories: true
+    categories_metadata: true
+    authors_metadata: false
+    feed_items_max: 20 # default
+#    disqus:
+#      shortname: stri-mcgill-neo
+#      hidden: false
+#    share: [twitter, linkedin]
+#    subscribe: _subscribe.html
+    citations: false
+creative_commons: CC BY-SA
+exclude: ["public", "README.html", "README.md", "page_build", "public_build", "sandbox"]
+navbar:
+#  logo:
+#    image: files/panama_logo_icon.png
+#    href: index.html
+  source_url: true
+  right:
+    - icon: fa-home
+      href: index.html
+#    - text: "About"
+#      href: about.html
+    - text: "Resources"
+      menu:
+#        - text: "Workflows"
+#        - text: "---------"
+#        - text: "Using this Site"
+#          href: about.html
+        - text: "Distill homepage"
+          href: https://rstudio.github.io/distill/
+#        - text: "Tutorials"
+#          href: https://rstudio.github.io/distill/
+    - icon: fa-github fa-lg
+      href: https://github.com/jarrodscott/stri-mcgill-2022
+    - icon: fa fa-rss
+      href: sitemap.xml
+output:
+  distill::distill_article:
+    includes:
+      in_header: giscus.html
+    highlight_downlit: true
+    highlight: haddock
+    css: assets/css/styles.css
+    toc: true
+    toc_depth: 2
+    toc_float: true
+compare_updates_url:https://github.com/jarrodscott/stri-mcgill-2022/compare/pubv1...main
+rss:
+  full_content: TRUE
+#  categories:
+#    - Packages/Releases
+#    - TensorFlow/Keras
+#    - R

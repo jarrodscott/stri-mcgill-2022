@@ -19,7 +19,7 @@ collections:
 #    subscribe: _subscribe.html
     citations: false
 creative_commons: CC BY-SA
-exclude: ["public", "README.html", "README.md", "page_build", "public_build", "sandbox"]
+exclude: ["public", "README.html", "README.md", "page_build", "public_build", "sandbox", "figure_maker"]
 navbar:
 #  logo:
 #    image: files/panama_logo_icon.png
